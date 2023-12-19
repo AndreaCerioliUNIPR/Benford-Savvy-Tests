@@ -13,4 +13,4 @@ Each input file also includes a brief description of the parameters that the fil
 
 The Fortran program makes use of some IMSL functions and routines. 
 A compatible version (i.e., a version without IMSL routines) can be run from Matlab using 
-a wrapper to the source file compiled using the mex function.
+a wrapper to the source file compiled using the mex function.
